@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rudolph404
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C/C++
+- 😄 Pronouns: sir/masster/boss
+- ⚡ Fun fact: I got no fun facts
